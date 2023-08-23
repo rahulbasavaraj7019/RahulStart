@@ -5,7 +5,7 @@ abstract class absexam {
     }
     
 }
-public class Ba extends absexam{
+class Ba extends absexam{
     public void m2(){
         System.out.println("child reference");
     }
