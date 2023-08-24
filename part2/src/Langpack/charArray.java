@@ -9,7 +9,7 @@ public class charArray {
 		
 		System.out.println(ids);
 		System.out.println(ch1);
-		System.out.println(ch1);  
+		System.out.println(ch1.toString());  
 		System.out.println(obj);  
 	}
 }
